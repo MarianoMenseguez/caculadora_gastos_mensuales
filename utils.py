@@ -1,0 +1,1 @@
+ # (Opcional) Funciones auxiliares, si surgen
